@@ -349,6 +349,12 @@ Comprehensive documentation available in the `/docs` folder:
 
 This is a hackathon project built as a demonstration. Contributions, suggestions, and forks are welcome. Please open an issue or pull request on GitHub.
 
+## Contributor Note
+
+I contributed to the Media Mercatum project by:
+• Building AES-256 encryption workflow for media assets
+• Assisting with front-end Next.js components and TypeScript testing
+
 ## License
 
 MIT License
@@ -372,3 +378,4 @@ For questions, feedback, or collaboration opportunities, please open an issue on
 ---
 
 **Media Mercatum** - Empowering creators through decentralized technology
+
